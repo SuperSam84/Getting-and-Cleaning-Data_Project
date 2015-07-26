@@ -4,7 +4,7 @@
 ## Data Dictionary for the data set tidy_data
 
 ### Subject
-The person which signals were registered. [1,30] persons (from the 30 volunteers).
+The person which signals were registered from the 30 volunteer
 
 ### Activity
 The activity performed for the registered signal. Possible activities: "WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING".
